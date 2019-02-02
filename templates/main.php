@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<title>Sneaky Sneaky</title>
+<title>Ik wil internet :)</title>
 
 <meta name="generator" content="php-proxy.com">
 <meta name="version" content="<?=$version;?>">
@@ -136,7 +136,7 @@ a:active {
 
 <div class="container">
 	<div class="title">
-		<h1>Sneaky Sneaky</h1>
+		<h1>Veel plezier! 😅</h1>
 	</div>
 	
 	<div id="frm">
@@ -151,7 +151,7 @@ a:active {
 	</div>
 
 	<div class="notice">
-		🌽🌽🌽
+		😎😎😎
 	</div>
 
 	<?php if(isset($error_msg)){ ?>
