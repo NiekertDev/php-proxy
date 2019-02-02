@@ -141,7 +141,7 @@ a:active {
 	
 	<div id="frm">
 		<form action="index.php" method="post">
-			<input class="url" name="url" type="text" autocomplete="off" placeholder="URL or search" />
+			<input class="url" name="url" type="text" autocomplete="off" placeholder="URL / zoekopdracht" />
 			<input class="go" type="submit" value="Go" />
 		</form>
 		
